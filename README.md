@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, this is Deepak 👋
 # 💫 About Me:
 About Me:<br><br>Hi there! I'm Deepak,<br>A recent B.Tech graduate in Computer Science with a passion for exploring new technologies and tackling challenging problems. I'm actively seeking an internship opportunity to gain practical experience and contribute my skills to a real-world project.
 
