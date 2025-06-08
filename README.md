@@ -1,40 +1,132 @@
-## Hi there, this is Deepak 👋
-# 💫 About Me:
-About Me:<br><br>Hi there! I'm Deepak,<br>A recent B.Tech graduate in Computer Science with a passion for exploring new technologies and tackling challenging problems. I'm actively seeking an internship opportunity to gain practical experience and contribute my skills to a real-world project.
-
-
-# 💻 Tech Stack:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepak-288&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepak-288&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-288&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepak-288&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=deepak-288&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!--
 **deepak-288/deepak-288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepak-288&color=blue" alt="Profile views" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Deepak Rajadurai</h1>
+<p align="center">
+  <em>Aspiring Software Developer • B.Tech in Computer Science • Master's in Applied Computer Science 🎓</em>
+</p>
+
+---
+
+## 💫 About Me
+I’m Deepak, a recent B.Tech graduate in Computer Science from Dr. M.G.R. Educational and Research Institute and currently pursuing my Master’s in Applied Computer Science at Schmalkalden University of Applied Sciences. I have a passion for exploring new technologies, solving challenging problems, and building real-world applications. Actively seeking internship and working-student opportunities to apply my skills in software development, AI/ML, and IoT.
+
+- 🔭 I’m currently working on **Retrieval-Augmented Generation with Real-Time Data** and **Adaptive Parking System Using IoT**  
+- 🌱 I’m learning advanced machine learning techniques and cloud-native architectures  
+- 💬 Ask me about Python, Java, embedded systems, or integrating LLMs with real-time APIs  
+- 📫 How to reach me: deepakrajadurai343@gmail.com  
+- 🌐 Portfolio: [deepak-vert.vercel.app](https://deepak-vert.vercel.app)  
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Core Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git–CI/CD-black?style=for-the-badge&logo=git&logoColor=white" />
+
+  <!-- Data & AI -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit–learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM–RAG-lightgrey?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Projects & Experience
+
+### 🙌 Major Projects
+- **Retrieval-Augmented Generation with Real-Time Data**  
+  Integrated large language models with live data sources to deliver contextual insights. Built end-to-end pipelines using Python, APIs, and open-source toolkits.
+
+- **Adaptive Parking System Using IoT**  
+  Designed and implemented a smart parking solution with MQTT-based sensors, dynamic slot allocation algorithms, and real-time dashboards on the cloud.
+
+- **Vehicle Breakdown Assistance System**  
+  Developed a tool-assisted notification platform with real-time GPS tracking, leveraging telemetry APIs and modular microservices.
+
+### 💼 Internships
+- **FORUPPO** (Project Management Intern, 2024)  
+  – Evaluated collaboration tools & workflow platforms  
+  – Documented integrations and conducted integration testing  
+
+- **IMPACTING LIVES** (HR Intern, 2024)  
+  – Processed payroll & maintained employee records  
+  – Supported recruitment, onboarding, and HR reporting  
+
+---
+
+## 🎓 Education
+
+| Degree                                | Institution                                      | Years        |
+|---------------------------------------|--------------------------------------------------|--------------|
+| M.Sc. in Applied Computer Science     | Schmalkalden University of Applied Sciences      | 2024 – Present |
+| B.Eng. (Computer Science)             | Dr. M.G.R. Educational & Research Institute      | 2020 – 2024   |
+
+---
+
+## 🛠️ Skills
+
+- **Programming & Frameworks:** Python, Java, C/C++, JavaScript, .NET, Docker, Git, CI/CD  
+- **Data & AI:** NumPy, Pandas, scikit-learn, OpenCV, Streamlit, RAG & LLM integration  
+- **IoT & Embedded:** Arduino, MQTT, Cloud dashboards  
+- **Web & Mobile:** HTML5, CSS3, PHP, Firebase, Azure  
+- **Design & Tools:** Figma, Canva, Adobe Photoshop, Lightroom, Premiere Pro  
+- **Soft Skills:** Critical Thinking, Communication, Time Management, Adaptability, Problem-Solving  
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| English  | Fluent      |
+| Deutsch  | Intermediate|
+| Français | Intermediate|
+| Tamil    | Native      |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak-288&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-288&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-288&theme=dark&hide=HTML,CSS&layout=compact" />
+</p>
+
+---
+
+## ✉️ Get In Touch
+
+<p align="center">
+  <a href="mailto:deepakrajadurai343@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://deepak-vert.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://github.com/deepak-288"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/deepakrajadurai343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
